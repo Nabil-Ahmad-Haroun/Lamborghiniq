@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(34, 41, 43) !important;
+}
+@media (max-width:567px){
+    .s{
+        height: 500px !important;
+
+    }
+} 
+.heromark{
+    width: 100%;
+    height: 400px;
+    background-image: url(../image/her2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-top: 200px;
+}
+
+
